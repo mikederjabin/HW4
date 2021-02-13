@@ -10,7 +10,7 @@ a {
 }
 
 a:hover {
-  color: #5d6d7e;
+  color: #abb2b9;
 }
 
 button {
@@ -27,7 +27,7 @@ button {
 }
 
 button:hover {
-  background-color: #5d6d7e;
+  background-color: #abb2b9;
 }
 
 .choices button {
@@ -50,7 +50,7 @@ li {
 }
 
 li:nth-child(odd) {
-  background-color: #aeb6bf;
+  background-color: #f3edfc;
 }
 
 .wrapper {
